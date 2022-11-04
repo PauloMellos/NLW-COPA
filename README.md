@@ -1,18 +1,26 @@
 NLW-Copa
 Criado durante o evento NLW promovido pela rocketseat
+<<<<<<< HEAD
 <img src="./assets/nlw copa.png" alt="NLW"/>
 🚀Tecnologias:
 Projeto feito com:
+=======
 
+![previw](./.github/previw.png)
+
+>>>>>>> 06bda76520b2ba6afa603c54b42ab8c6f71ce4cd
+
+Trilha Explorer
+
+Projeto contruido do evento Next Level Week da Rocketseat.
+
+[Clique Aqui para acessar](https://paulomellos.github.io/NLW/)
+
+## Tecnologias
 HTML
 CSS
-JavaScript
+Git e Github
 
-💻Projeto:
-O Projeto é um calendário que mostra os jogos da copa do mundo.
+Contato
 
-📝Esquema:
-Você pode encontrar o layout do projeto no Figma (https://www.figma.com/community/file/1169028052212317700);
-
-Licença:
-Projeto feito com licença MIT
+paulocesarmellos@gmail.com
