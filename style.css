@@ -48,6 +48,21 @@ header {
   text-align: center;
 }
 
+header div {
+    width: 120px;
+    margin: auto;
+    border-radius: 50%;
+    background-image: linear-gradient(90deg, #0b4604 0%, #f3dc09 100%);
+    display: flex;
+
+    transition: transform .3s;
+   
+}
+
+header div:hover {
+    transform: scale(1.1);
+}
+
 header div img {
     width: 120px;
     border-radius: 50%;
