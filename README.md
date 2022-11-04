@@ -5,7 +5,7 @@ Criado durante o evento NLW promovido pela rocketseat
 
 Projeto contruido do evento Next Level Week da Rocketseat.
 
-[Clique Aqui para acessar](https://github.com/PauloMellos/NLW-COPA.git)
+[Clique Aqui para acessar](https://paulomellos.github.io/NLW-COPA/)
 
 ## Tecnologias
 HTML
