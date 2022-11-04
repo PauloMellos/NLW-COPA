@@ -1,7 +1,6 @@
 NLW-Copa
 Criado durante o evento NLW promovido pela rocketseat
-
-
+<img src="./assets/nlw copa.png" alt="NLW"/>
 🚀Tecnologias:
 Projeto feito com:
 
